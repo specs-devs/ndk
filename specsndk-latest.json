@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "name": "Specs NDK",
+  "latest": {
+    "version": "1.3.0",
+    "minOsVersion": "3.0.0",
+    "releaseDate": "2026-11-13",
+    "downloads": {
+      "darwin": {
+        "arch": "x86_64",
+        "filename": "specsndk-armv8-1.3.0-darwin21-x86_64.tar",
+        "url": "https://downloads.ctfassets.net/xyb83mibqg29/2oQP7IyTOg1NxIBG52R2qq/ecd02a13ca61fef0017a9c76d74a8254/specsndk-armv8-1.3.0-darwin21-x86_64.tar",
+        "contentfulAssetId": "2oQP7IyTOg1NxIBG52R2qq",
+        "compression": "xz",
+        "sizeBytes": 336989768
+      },
+      "windows": {
+        "arch": "x86_64",
+        "filename": "specsndk-armv8-1.3.0-mingw32-x86_64.tar",
+        "url": "https://downloads.ctfassets.net/xyb83mibqg29/2YRenWvNLRHmvd5seqn4fA/90b488f7df38ddfe55ce6b2066107a4c/specsndk-armv8-1.3.0-mingw32-x86_64.tar",
+        "contentfulAssetId": "2YRenWvNLRHmvd5seqn4fA",
+        "compression": "xz",
+        "sizeBytes": 146341144
+      }
+    }
+  },
+  "versionSources": {
+    "file": "source.properties",
+    "key": "Pkg.Revision"
+  }
+}
